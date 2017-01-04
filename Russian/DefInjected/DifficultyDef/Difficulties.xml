@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Peaceful.label>Мир во всём мире</Peaceful.label>
+	<Peaceful.description>Для желающих расслабиться и построить поселение в режиме песочницы.\n\nОсновные события и угрозы отключены, но колонисты и животные всё ещё могут получить ранения или сойти с ума, время от времени.</Peaceful.description>
+	
+	<VeryEasy.label>Строительство базы</VeryEasy.label>
+	<VeryEasy.description>Для тех, кто хочет построить колонию с привкусом опасности.\n\nУгрозы появляются, но они очень слабы. Некоторые из наиболее опасных событий отключены.</VeryEasy.description>
+	
+	<Easy.label>Лёгкое испытание</Easy.label>
+	<Easy.description>Для играющих в первый раз или казуальных игроков, жаждущих небольших испытаний.\n\nУгрозы опасны, но не смертельны.</Easy.description>
+	
+	<Medium.label>Чужбина</Medium.label>
+	<Medium.description>Это суровая и неприветливая планета. Угрозы могут быть довольно опасны.\n\nНе рекомендуется для новичков.</Medium.description>
+	
+	<Hard.label>Вызов</Hard.label>
+	<Hard.description>Серьёзный вызов.\n\nУспех на этом уровне требует хорошего понимания стратегий выживания и немного удачи.</Hard.description>
+	
+	<VeryHard.label>Экстрим</VeryHard.label>
+	<VeryHard.description>Дамоклов меч будет постоянно висеть над поселением.\n\nПротивники сильны, цены невыгодны, пропитания очень мало, а поселенцы угрюмы. Самый настоящий цифровой ад.</VeryHard.description>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>Местность</TabTerrain>
+  <TabPlanet>Планета</TabPlanet>
+  <TabCaravanSocial>Социум</TabCaravanSocial>
+  <TabCaravanHealth>Здоровье</TabCaravanHealth>
+  <TabCaravanNeeds>Нужды</TabCaravanNeeds>
+  <TabCaravanGear>Вещи</TabCaravanGear>
+  <TabCaravanItems>Груз</TabCaravanItems>
+  
+  <!-- Misc -->
+  <AbandonSliderText>Бросить {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Вы действительно хотите бросить {0}?\n\nБрошенные вещи исчезают и никогда не могут быть восстановлены.</ConfirmAbandonItemDialog>
+  <AbandonTip>Бросить</AbandonTip>
+  <AbandonSpecificCountTip>Выбросить конкретное количествоне </AbandonSpecificCountTip>
+  <AbandonAllTip>Выбросить (всё)</AbandonAllTip>
+  <AbandonItemTipExtraText>Брошенные вещи исчезают и никогда не могут быть восстановлены.</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} скорее всего умрёт.</AbandonTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <CaravanColonists>Колонисты</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Заключенные и животные</CaravanPrisonersAndAnimals>
+  <CaravanItems>Вещи</CaravanItems>
+  <OpenSpecificTabButtonTip>Нажмите, чтобы открыть вкладку с более подробными деталями.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Заключенные</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Экипировка</CaravanWeaponsAndApparel>
+  
+  <!-- Caravan gear -->
+  <DragToRearrange>Перетащите для изменения.</DragToRearrange>
+  
+  <!-- Planet -->
+  <PlanetSeed>Зерно</PlanetSeed>
+  <PlanetCoverageShort>Охват планеты</PlanetCoverageShort>
+
+</LanguageData>

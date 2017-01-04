@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MakeStoneBlocks.label>сделать каменные блоки</MakeStoneBlocks.label>
+	<MakeStoneBlocks.description>Распилить каменные обломки на блоки, пригодные для строительства.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Обрабатывает камень.</MakeStoneBlocks.jobString>
+
+	<ExtractMetalFromSlag.label>переплавить металлолом</ExtractMetalFromSlag.label>
+	<ExtractMetalFromSlag.description>Добыть металл из металлолома с помощью высокой температуры и мощных электромагнитов.</ExtractMetalFromSlag.description>
+	<ExtractMetalFromSlag.jobString>Переплавляет металлолом.</ExtractMetalFromSlag.jobString>
+
+	<SmeltWeapon.label>переплавить оружие на металл</SmeltWeapon.label>
+	<SmeltWeapon.description>Добыть металл из оружия с помощью высокой температуры и мощных электромагнитов.</SmeltWeapon.description>
+	<SmeltWeapon.jobString>Переплавляет оружие.</SmeltWeapon.jobString>
+
+	<MakeArtilleryShell.label>сделать снаряд</MakeArtilleryShell.label>
+	<MakeArtilleryShell.description>Сделать артиллерийский снаряд.</MakeArtilleryShell.description>
+	<MakeArtilleryShell.jobString>Делает снаряд.</MakeArtilleryShell.jobString>
+
+	<MakeComponent.label>сделать компонент</MakeComponent.label>
+    <MakeComponent.description>Сделать компонент.</MakeComponent.description>
+    <MakeComponent.jobString>Делает компонент.</MakeComponent.jobString>
+	
+</LanguageData>

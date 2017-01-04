@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<Nuzzle.reportString>принюхивается к TargetA.</Nuzzle.reportString>
+	<Mate.reportString>спаривается с TargetA.</Mate.reportString>
+	<LayEgg.reportString>откладывает яйца.</LayEgg.reportString>
+	<PredatorHunt.reportString>охотится на TargetA.</PredatorHunt.reportString>
+	<Maintain.reportString>обслуживает TargetA.</Maintain.reportString>
+
+</LanguageData>
